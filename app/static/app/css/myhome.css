@@ -1,0 +1,16 @@
+#Dairybg{
+    font-weight: bold;
+    cursor: pointer;
+}
+#imgcontent{
+    /* text-align: center; */
+    margin-left: 9%;
+}
+.carousel-item img{
+    height: 376px;
+    padding-top: 5px;
+}
+#sizeall{
+    width: 25%;
+    margin-bottom: 5%;
+}
